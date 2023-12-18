@@ -29,54 +29,45 @@
 		"dataIndex": 0
 	}],
 	"awardList": [],
-	"workExpList": [
-		
-		{
-			"company_name": "东莞赢泰通自动化科技有限公司",
-			"department_name": "技术部",
-			"work_time": ["2023.4", "2023.12"],
-			"work_desc": "负责上位机pc软件开发以及手机端软件\n",
-			"dataIndex": 0
-		},
-		
-		
-		{
-			"company_name": "专迅科技",
-			"department_name": "技术部",
-			"work_time": ["2019.10", "2023.03"],
-			"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
-			"dataIndex": 0
-		},
-		
-
-		{
-			"company_name": "深圳市数本科技开发有限公司",
-			"department_name": "软件部",
-			"work_time": ["2017.06", "2019.08"],
-			"work_desc": "独立负责公司模块化产品开发",
-			"dataIndex": 1
-		}, {
-			"company_name": "深圳莫邪网络有限公司",
-			"department_name": "软件部",
-			"work_time": ["2016.11", "2017.06"],
-			"work_desc": "Android前端实习生。使用 H5 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
-			"dataIndex": 2
-		}
-	],
+	"workExpList": [{
+		"company_name": "东莞赢泰通自动化科技有限公司",
+		"department_name": "技术部",
+		"work_time": ["2023.4", "2023.12"],
+		"work_desc": "负责上位机pc软件开发以及手机端软件\n",
+		"dataIndex": 0
+	}, {
+		"company_name": "专迅科技",
+		"department_name": "技术部",
+		"work_time": ["2019.10", "2023.03"],
+		"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
+		"dataIndex": 0
+	}, {
+		"company_name": "深圳市数本科技开发有限公司",
+		"department_name": "软件部",
+		"work_time": ["2017.06", "2019.08"],
+		"work_desc": "独立负责公司模块化产品开发",
+		"dataIndex": 1
+	}, {
+		"company_name": "深圳莫邪网络有限公司",
+		"department_name": "软件部",
+		"work_time": ["2016.11", "2017.06"],
+		"work_desc": "Android前端实习生。使用 H5 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
+		"dataIndex": 2
+	}],
 	"skillList": [{
 		"skill_name": "android",
-		"skill_desc": "精通常用架构mvc,mvp,mvvm_AAC等架构,熟练JNI,AIDL跨应用通讯",
-		"skill_level": 90,
+		"skill_desc": "熟练常用架构mvc,mvp,mvvm_AAC等架构",
+		"skill_level": 80,
 		"dataIndex": 0
 	}, {
 		"skill_name": "java",
 		"skill_level": 90,
 		"dataIndex": 1,
-		"skill_desc": "熟练常见数据结构以及,对多线程有深刻理解"
+		"skill_desc": "熟练掌握java，kotlin开发语言"
 	}, {
 		"skill_name": "C/C++",
-		"skill_desc": "熟练C/C++,常运用于跨平台的JNI开发",
-		"skill_level": 75,
+		"skill_desc": "熟练掌握android开发的各个技巧.面对难点痛点.善于利用gpt来分析解决问题(从面向对象到面向gpt)",
+		"skill_level": 90,
 		"dataIndex": 2
 	}, {
 		"skill_name": "java后台",
@@ -84,44 +75,35 @@
 		"skill_level": 55,
 		"dataIndex": 3
 	}],
-	"projectList": [
-		
-		
-		{
-			"project_name": "AMR物料机器人自动分拣",
-			"project_role": "开发者",
-			"project_time": "2023.5 - 2023.10",
-			"project_desc": "为了减少重复人力,开发出AMR物料机器人自动分拣,机器人使用机械臂将物料放入烧成炉中炼制.系统由总控上位机系统,机器人PLC,以及一个手机端监控组成..",
-			"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
-			"dataIndex": 0
-		},
-		
-		{
-			"project_name": "SE标准化产品系列",
-			"project_role": "android负责人",
-			"project_time": "2019.12 - 2020.06",
-			"project_desc": "面向智能制造的一套标准化产品,提供一站式的数据化经营决策和管理协同功能,该系列,涵盖了多种数据通讯方式,TCP,串口,蓝牙网关,USB等,确保在复杂环境运行的可靠性.",
-			"project_content": "1.维护项目的核心版本,保证其能稳定运行在各个机型及系统版本.\n2.开发客户的定制版本.\n3.对接来自232,485转换器及其它硬件设备,复杂数据的解析,封包.",
-			"dataIndex": 0
-		},
-		
-
-		{
-			"project_name": "RC",
-			"project_role": "机器人项目负责人",
-			"project_time": "2022.6 - 2023.02",
-			"project_desc": "基于机器人平台开发涵盖餐厅带路,工厂安防,展厅领航等一系列标准化产品",
-			"project_content": "1.负责Rtsp推流,双屏异显,接入SE产品数据等核心功能的开发\n2.搭建基于viewmodel+hilt+flow的敏捷开发框架",
-			"dataIndex": 1
-		}, {
-			"project_name": " TPM",
-			"project_role": "核心开发者",
-			"project_time": "2019.02—2019.08",
-			"project_desc": "该模块产品主要针对智能制造工厂设备管理而开发.分为设备保养,设备履历,设备点检,保养记录,保养预警等功能",
-			"project_content": "由个人独立开发,依旧使用了google推荐的组件化架构 viewModel +liveData+repertory模式开发.",
-			"dataIndex": 2
-		}
-	],
+	"projectList": [{
+		"project_name": "AMR物料机器人自动分拣",
+		"project_role": "开发者",
+		"project_time": "2023.5 - 2023.10",
+		"project_desc": "为了减少重复人力,开发出AMR物料机器人自动分拣,机器人使用机械臂将物料放入烧成炉中炼制.系统由总控上位机系统,机器人PLC,以及一个手机端监控组成..",
+		"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
+		"dataIndex": 0
+	}, {
+		"project_name": "SE标准化产品系列",
+		"project_role": "android负责人",
+		"project_time": "2019.12 - 2020.06",
+		"project_desc": "面向智能制造的一套标准化产品,提供一站式的数据化经营决策和管理协同功能,该系列,涵盖了多种数据通讯方式,TCP,串口,蓝牙网关,USB等,确保在复杂环境运行的可靠性.",
+		"project_content": "1.维护项目的核心版本,保证其能稳定运行在各个机型及系统版本.\n2.开发客户的定制版本.\n3.对接来自232,485转换器及其它硬件设备,复杂数据的解析,封包.",
+		"dataIndex": 0
+	}, {
+		"project_name": "RC",
+		"project_role": "机器人项目负责人",
+		"project_time": "2022.6 - 2023.02",
+		"project_desc": "基于机器人平台开发涵盖餐厅带路,工厂安防,展厅领航等一系列标准化产品",
+		"project_content": "1.负责Rtsp推流,双屏异显,接入SE产品数据等核心功能的开发\n2.搭建基于viewmodel+hilt+flow的敏捷开发框架",
+		"dataIndex": 1
+	}, {
+		"project_name": " TPM",
+		"project_role": "核心开发者",
+		"project_time": "2019.02—2019.08",
+		"project_desc": "该模块产品主要针对智能制造工厂设备管理而开发.分为设备保养,设备履历,设备点检,保养记录,保养预警等功能",
+		"project_content": "由个人独立开发,依旧使用了google推荐的组件化架构 viewModel +liveData+repertory模式开发.",
+		"dataIndex": 2
+	}],
 	"workList": [],
 	"aboutme": {
 		"aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n  \n  "
@@ -129,5 +111,122 @@
 	"theme": {
 		"color": "#2f5785",
 		"tagColor": "#8bc34a"
+	},
+	"locales": {
+		"en": {
+			"titleNameMap": {
+				"educationList": "教育背景",
+				"workExpList": "工作经历",
+				"projectList": "项目经历",
+				"skillList": "个人技能",
+				"awardList": "更多信息",
+				"workList": "个人作品",
+				"aboutme": "自我介绍"
+			},
+			"avatar": {
+				"hidden": true
+			},
+			"profile": {
+				"name": "张家齐",
+				"email": "13576073491@163.com",
+				"mobile": "13576073491",
+				"github": "https://github.com/520ZH1314",
+				"zhihu": "",
+				"workExpYear": "6年",
+				"workPlace": "深圳",
+				"positionTitle": ""
+			},
+			"educationList": [{
+				"edu_time": ["2014.09.01", "2017.06.30"],
+				"school": "南昌大学软件学院",
+				"major": "软件技术",
+				"academic_degree": "",
+				"dataIndex": 0
+			}],
+			"awardList": [],
+			"workExpList": [{
+				"company_name": "东莞赢泰通自动化科技有限公司",
+				"department_name": "技术部",
+				"work_time": ["2023.4", "2023.12"],
+				"work_desc": "负责上位机pc软件开发以及手机端软件\n",
+				"dataIndex": 0
+			}, {
+				"company_name": "专迅科技",
+				"department_name": "技术部",
+				"work_time": ["2019.10", "2023.03"],
+				"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
+				"dataIndex": 0
+			}, {
+				"company_name": "深圳市数本科技开发有限公司",
+				"department_name": "软件部",
+				"work_time": ["2017.06", "2019.08"],
+				"work_desc": "独立负责公司模块化产品开发",
+				"dataIndex": 1
+			}, {
+				"company_name": "深圳莫邪网络有限公司",
+				"department_name": "软件部",
+				"work_time": ["2016.11", "2017.06"],
+				"work_desc": "Android前端实习生。使用 H5 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
+				"dataIndex": 2
+			}],
+			"skillList": [{
+				"skill_name": "android",
+				"skill_desc": "熟练常用架构mvc,mvp,mvvm_AAC等架构",
+				"skill_level": 80,
+				"dataIndex": 0
+			}, {
+				"skill_name": "java",
+				"skill_level": 90,
+				"dataIndex": 1,
+				"skill_desc": "熟练掌握java，kotlin开发语言"
+			}, {
+				"skill_name": "C/C++",
+				"skill_desc": "熟练掌握android开发的各个技巧.面对难点痛点.善于利用gpt来分析解决问题(从面向对象到面向gpt)",
+				"skill_level": 90,
+				"dataIndex": 2
+			}, {
+				"skill_name": "java后台",
+				"skill_desc": "熟悉java spring,开发过基于spring mvc的后台接口项目,使用过 mybaits plus+nginx+readis,了解分布式应用开发",
+				"skill_level": 55,
+				"dataIndex": 3
+			}],
+			"projectList": [{
+				"project_name": "AMR物料机器人自动分拣",
+				"project_role": "开发者",
+				"project_time": "2023.5 - 2023.10",
+				"project_desc": "为了减少重复人力,开发出AMR物料机器人自动分拣,机器人使用机械臂将物料放入烧成炉中炼制.系统由总控上位机系统,机器人PLC,以及一个手机端监控组成..",
+				"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
+				"dataIndex": 0
+			}, {
+				"project_name": "SE标准化产品系列",
+				"project_role": "android负责人",
+				"project_time": "2019.12 - 2020.06",
+				"project_desc": "面向智能制造的一套标准化产品,提供一站式的数据化经营决策和管理协同功能,该系列,涵盖了多种数据通讯方式,TCP,串口,蓝牙网关,USB等,确保在复杂环境运行的可靠性.",
+				"project_content": "1.维护项目的核心版本,保证其能稳定运行在各个机型及系统版本.\n2.开发客户的定制版本.\n3.对接来自232,485转换器及其它硬件设备,复杂数据的解析,封包.",
+				"dataIndex": 0
+			}, {
+				"project_name": "RC",
+				"project_role": "机器人项目负责人",
+				"project_time": "2022.6 - 2023.02",
+				"project_desc": "基于机器人平台开发涵盖餐厅带路,工厂安防,展厅领航等一系列标准化产品",
+				"project_content": "1.负责Rtsp推流,双屏异显,接入SE产品数据等核心功能的开发\n2.搭建基于viewmodel+hilt+flow的敏捷开发框架",
+				"dataIndex": 1
+			}, {
+				"project_name": " TPM",
+				"project_role": "核心开发者",
+				"project_time": "2019.02—2019.08",
+				"project_desc": "该模块产品主要针对智能制造工厂设备管理而开发.分为设备保养,设备履历,设备点检,保养记录,保养预警等功能",
+				"project_content": "由个人独立开发,依旧使用了google推荐的组件化架构 viewModel +liveData+repertory模式开发.",
+				"dataIndex": 2
+			}],
+			"workList": [],
+			"aboutme": {
+				"aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n  \n  "
+			},
+			"theme": {
+				"color": "#2f5785",
+				"tagColor": "#8bc34a"
+			}
+		}
 	}
 }
