@@ -29,13 +29,8 @@
 		"dataIndex": 0
 	}],
 	"awardList": [],
-	"workExpList": [{
-			"company_name": "专迅科技",
-			"department_name": "技术部",
-			"work_time": ["2019.10", "2023.03"],
-			"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
-			"dataIndex": 0
-		},
+	"workExpList": [
+		
 		{
 			"company_name": "东莞赢泰通自动化科技有限公司",
 			"department_name": "技术部",
@@ -43,6 +38,16 @@
 			"work_desc": "负责上位机pc软件开发以及手机端软件\n",
 			"dataIndex": 0
 		},
+		
+		
+		{
+			"company_name": "专迅科技",
+			"department_name": "技术部",
+			"work_time": ["2019.10", "2023.03"],
+			"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
+			"dataIndex": 0
+		},
+		
 
 		{
 			"company_name": "深圳市数本科技开发有限公司",
@@ -79,14 +84,9 @@
 		"skill_level": 55,
 		"dataIndex": 3
 	}],
-	"projectList": [{
-			"project_name": "SE标准化产品系列",
-			"project_role": "android负责人",
-			"project_time": "2019.12 - 2020.06",
-			"project_desc": "面向智能制造的一套标准化产品,提供一站式的数据化经营决策和管理协同功能,该系列,涵盖了多种数据通讯方式,TCP,串口,蓝牙网关,USB等,确保在复杂环境运行的可靠性.",
-			"project_content": "1.维护项目的核心版本,保证其能稳定运行在各个机型及系统版本.\n2.开发客户的定制版本.\n3.对接来自232,485转换器及其它硬件设备,复杂数据的解析,封包.",
-			"dataIndex": 0
-		},
+	"projectList": [
+		
+		
 		{
 			"project_name": "AMR物料机器人自动分拣",
 			"project_role": "开发者",
@@ -95,6 +95,16 @@
 			"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
 			"dataIndex": 0
 		},
+		
+		{
+			"project_name": "SE标准化产品系列",
+			"project_role": "android负责人",
+			"project_time": "2019.12 - 2020.06",
+			"project_desc": "面向智能制造的一套标准化产品,提供一站式的数据化经营决策和管理协同功能,该系列,涵盖了多种数据通讯方式,TCP,串口,蓝牙网关,USB等,确保在复杂环境运行的可靠性.",
+			"project_content": "1.维护项目的核心版本,保证其能稳定运行在各个机型及系统版本.\n2.开发客户的定制版本.\n3.对接来自232,485转换器及其它硬件设备,复杂数据的解析,封包.",
+			"dataIndex": 0
+		},
+		
 
 		{
 			"project_name": "RC",
