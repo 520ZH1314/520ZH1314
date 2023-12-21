@@ -164,19 +164,19 @@
 				"department_name": "技术部",
 				"work_time": ["2019.10", "2023.03"],
 				"work_desc": "1.负责维护及迭代专迅科技的标准化产品\n2.负责管理及开发机器人项目的标准版产品\n",
-				"dataIndex": 0
+				"dataIndex":1
 			}, {
 				"company_name": "深圳市数本科技开发有限公司",
 				"department_name": "软件部",
 				"work_time": ["2017.06", "2019.08"],
 				"work_desc": "独立负责公司模块化产品开发",
-				"dataIndex": 1
+				"dataIndex": 2
 			}, {
 				"company_name": "深圳莫邪网络有限公司",
 				"department_name": "软件部",
 				"work_time": ["2016.11", "2017.06"],
 				"work_desc": "Android前端实习生。使用 H5 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
-				"dataIndex": 2
+				"dataIndex": 3
 			}],
 			"skillList": [{
 				"skill_name": "android",
