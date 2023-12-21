@@ -33,7 +33,7 @@
 		"company_name": "东莞赢泰通自动化科技有限公司",
 		"department_name": "技术部",
 		"work_time": ["2023.4", "2023.12"],
-		"work_desc": "负责上位机pc软件开发以及手机端软件\n",
+		"work_desc": "应朋友邀请挑战上位机pc软件开发以及手机端软件定制开发\n",
 		"dataIndex": 0
 	}, {
 		"company_name": "专迅科技",
@@ -89,7 +89,7 @@
 		"project_role": "开发者",
 		"project_time": "2023.5 - 2023.10",
 		"project_desc": "为了减少重复人力,开发出AMR物料机器人自动分拣,机器人使用机械臂将物料放入烧成炉中炼制.系统由总控上位机系统,机器人PLC,以及一个手机端监控组成..",
-		"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
+		"project_content": "主要负责手机端软件开发,以及总控winfom端与PLC系统的实时通讯(串口,socket,蓝牙).手机端采用kotlin+flow数据流来设计,主要功能有:1与总控系统实时通讯(socket,Bluetooth),2.机器人摄像头视频推流(rtsp).3数据的实时推送(webapi). 这个项目现场环境复杂,通讯干扰较大,所以采用了多种通讯备用方案,确保通讯的可靠性.",
 		"dataIndex": 0
 	}, {
 		"project_name": "SE标准化产品系列",
@@ -103,7 +103,7 @@
 		"project_role": "机器人项目负责人",
 		"project_time": "2022.6 - 2023.02",
 		"project_desc": "基于机器人平台开发涵盖餐厅带路,工厂安防,展厅领航等一系列标准化产品",
-		"project_content": "1.负责Rtsp推流,双屏异显,接入SE产品数据等核心功能的开发\n2.搭建基于viewmodel+hilt+flow的敏捷开发框架",
+		"project_content": "1.负责Rtsp推流,双屏异显,接入SE产品数据等核心功能的开发\n2.搭建基于kotlin+viewmodel+hilt+flow的框架",
 		"dataIndex": 1
 	}, {
 		"project_name": " TPM",
