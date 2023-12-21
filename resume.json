@@ -62,7 +62,7 @@
 	}, {
 		"skill_name": "java",
 		"skill_level": 90,
-		"dataIndex": 1,
+		"dataIndex": 2,
 		"skill_desc": "熟练掌握java，kotlin开发语言"
 	}, 
 		{
@@ -77,12 +77,12 @@
 		"skill_name": "C/C++",
 		"skill_desc": "熟练常用Android手机屏幕适配及屏幕适配原则,了解碎片化处理(Fragment与activity的搭配),及Android各版本权限适配,提高应用的兼容性",
 		"skill_level": 90,
-		"dataIndex": 2
+		"dataIndex": 3
 	}, {
 		"skill_name": "java后台",
 		"skill_desc": "熟悉java spring,开发过基于spring mvc的后台接口项目,使用过 mybaits plus+nginx+readis,了解分布式应用开发",
 		"skill_level": 55,
-		"dataIndex": 3
+		"dataIndex": 4
 	}],
 	"projectList": [{
 		"project_name": "AMR物料机器人自动分拣",
