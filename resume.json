@@ -56,7 +56,7 @@
 	}],
 	"skillList": [{
 		"skill_name": "android",
-		"skill_desc": "熟练常用架构mvc,mvp,mvvm_AAC等架构",
+		"skill_desc": "熟练常用mvc,mvp,mvvm_AAC等架构",
 		"skill_level": 80,
 		"dataIndex": 0
 	}, {
@@ -64,9 +64,18 @@
 		"skill_level": 90,
 		"dataIndex": 1,
 		"skill_desc": "熟练掌握java，kotlin开发语言"
-	}, {
+	}, 
+		{
+		"skill_name": "java",
+		"skill_level": 90,
+		"dataIndex": 1,
+		"skill_desc": "熟练常用okhttp,Glide,WebSocket,Retrofit，RxJava,Gson，EventBus等热门框架"
+	}, 
+		
+		
+		{
 		"skill_name": "C/C++",
-		"skill_desc": "熟练掌握android开发的各个技巧.面对难点痛点.善于利用gpt来分析解决问题(从面向对象到面向gpt)",
+		"skill_desc": "熟练常用Android手机屏幕适配及屏幕适配原则,了解碎片化处理(Fragment与activity的搭配),及Android各版本权限适配,提高应用的兼容性",
 		"skill_level": 90,
 		"dataIndex": 2
 	}, {
@@ -148,7 +157,7 @@
 				"company_name": "东莞赢泰通自动化科技有限公司",
 				"department_name": "技术部",
 				"work_time": ["2023.4", "2023.12"],
-				"work_desc": "负责上位机pc软件开发以及手机端软件\n",
+				"work_desc": "应朋友邀请挑战上位机pc软件开发以及开发手机端软件\n",
 				"dataIndex": 0
 			}, {
 				"company_name": "专迅科技",
